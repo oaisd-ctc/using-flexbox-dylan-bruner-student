@@ -1,0 +1,4 @@
+- "active" pseudo-class
+ - when the element is being clicked it applies the specified rules
+- "last-child" pseudo-class
+ - exactly like nth-child except it only applies to the last child
